@@ -10,7 +10,8 @@
 
     "paths": {
       "@modules/*": ["./src/modules/*"],
-      "@context/*": ["./src/context/*"],
+      "@contexts/*": ["./src/context/*"],
+      "@components/*": ["./src/components/*"],
     },
 
     /* Bundler mode */
